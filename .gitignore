@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/
+.ipynb_checkpoints/
+venv/
+.env
+data/FIR_Details_Data.csv
